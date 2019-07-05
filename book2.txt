@@ -1,0 +1,9 @@
+Container list:
+ - nano - show plik
+ - ls - show list 
+ - clear - clear all commands in console
+ - exit - exit GIT Bush
+ - touch plik_name - create a plik
+ - mkdir folder_name - create a folder
+ - rm plik_name - delete plik
+ - cd root - go to root
