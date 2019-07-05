@@ -1,0 +1,6 @@
+Contents lines:
+1. Git basic commends:
+  - git status
+  - git initiate
+  - git log
+  - git commit 
