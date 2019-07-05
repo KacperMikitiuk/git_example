@@ -1,6 +1,17 @@
-Contents lines:
+Contents list:
 1. Git basic commends:
   - git status
   - git initiate
   - git log
   - git commit 
+  - git commit --amend
+  - git checkout -- book.txt
+  - git diff
+  - git rm --cached
+  - git reset HEAD book.txt
+  - git stash
+  - git checkout -b branch_name
+  - git stash pop --index 0
+  - git merge (branch_name || origin /branch_name)
+  - git checkout branch_name
+
