@@ -19,3 +19,6 @@ Contents list:
   - git remote add (origin||dupa) remote_address_url
   - git remote -v 
   - git remote rm (origin || dupa)
+  - git pull origin master
+  - git push origin master (--force)
+  - git push origin -u master (upstream set)
