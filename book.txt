@@ -14,4 +14,8 @@ Contents list:
   - git stash pop --index 0
   - git merge (branch_name || origin /branch_name)
   - git checkout branch_name
-
+  - git branch -d branch_name
+  - git remote
+  - git remote add (origin||dupa) remote_address_url
+  - git remote -v 
+  - git remote rm (origin || dupa)
